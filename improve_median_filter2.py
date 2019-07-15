@@ -1,3 +1,4 @@
+#use the histogram method to find the median value
 import numpy as np
 import find_median as fd
 import border as bo
