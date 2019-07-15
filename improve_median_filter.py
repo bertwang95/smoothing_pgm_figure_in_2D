@@ -1,3 +1,4 @@
+#use the heap sort to find the median value, and skip smoe pixels that don't need filter
 import numpy as np
 import find_median as fd
 import border as bo
